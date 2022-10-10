@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Babangida's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-sensei&count_private=true&theme=radical&show_icons=true&include_all_commits)
+![Babangida's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-sensei&count_private=true&theme=dark&show_icons=true&include_all_commits)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-sensei&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=code-sensei&theme=dark)](https://git.io/streak-stats)
